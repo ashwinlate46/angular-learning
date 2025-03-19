@@ -1,0 +1,30 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "The Hobbit",
+      "img": "https://www.pluggedin.com/wp-content/uploads/2020/01/hobbit-cover.jpg",
+      "author": "J.R.R. Tolkien",
+      "price": 14.99
+    },
+    {
+      "id": "3",
+      "title": "The Catcher in the Rye",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFbx4VXBiZRM11hSqJRrC7f1HLQrCUkgMY8g&s",
+      "author": "J.D. Salinger",
+      "price": 9.99
+    },
+    {
+      "id": "4",
+      "title": "The Great Gatsby",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc6ggaV8-uftadQ3mYBjqwzUPSz8n0Me-54w&s",
+      "author": "F. Scott Fitzgerald",
+      "price": 9.99
+    },
+    {
+      "id": 12,
+      "name": "Milk and Honey",
+      "imageURL": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Ym9va3xlbnwwfHwwfHx8MA%3D%3D"
+    }
+  ]
+}
